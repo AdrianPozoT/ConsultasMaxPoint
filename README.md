@@ -37,10 +37,10 @@ El proyecto está organizado de la siguiente manera:
 ## Vista de las aplicaciones
 #### Resultado de drivers y constructors
 
-![Captura de pantalla 2024-07-07 150032](https://github.com/AdrianPozoT/InterfazGrafica_ConsultasF1/assets/168159379/05d8745c-321c-48d1-94b3-77ba08c13517)
-
-
 ![Captura de pantalla 2024-07-07 150121](https://github.com/AdrianPozoT/InterfazGrafica_ConsultasF1/assets/168159379/9ed1c44a-5fd5-4d5b-8179-82d63c2161cb)
+
+
+![Captura de pantalla 2024-07-07 150032](https://github.com/AdrianPozoT/InterfazGrafica_ConsultasF1/assets/168159379/05d8745c-321c-48d1-94b3-77ba08c13517)
 
 #### Resultado de puntos maximos de drivers y constructors
 
